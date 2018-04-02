@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CallBack</string>
+    <string name="preference_file_key">abc</string>
+    <string name="saved_high_score">a</string>
+</resources>
